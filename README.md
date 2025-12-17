@@ -1,3 +1,4 @@
+![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDMyYnBlNGQ1dmFrejhubnE5aDVqbGI2YjYwM21xYzJzenowM3R3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif)
 ## Hi there 👋 I'm AHOORA!
 
 🎉 I'm a passionate **developer** who loves coding, learning, and building awesome projects!  
